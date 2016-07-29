@@ -1,0 +1,16 @@
+.bgimage{
+	background-image: url('eyes.jpg');
+	background-position: center center;
+	background-size: cover;
+	height: 200px;
+}
+.register{
+	text-align: center;
+}
+h1{
+	font-weight: bold;
+	color: white;
+}
+p.main{
+	text-indent: 25px;
+}
